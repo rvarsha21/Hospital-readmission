@@ -8,11 +8,11 @@ This project predicts hospital readmission risk for diabetic patients using mach
 
 | Stage | Description | File/Link | Done by |
 |-------|-------------|-------------|-------------|
-| **Data Integration** | Merge UCI dataset with BRFSS demographic health data | [data_merging.ipynb](https://github.com/kristenlowe/hospital-readmission/blob/main/data_merging.ipynb) | Kristen |
-| **Data Cleaning and Feature Engineering** | Handle missing values, create literature-based predictive features | [Data Cleaning and Feature Engineering.ipynb](https://github.com/kristenlowe/hospital-readmission/blob/f7d902f05b1ab1850e35eb754b94fa08f3ba0103/Data%20Cleaning%20and%20Feature%20Engineering.ipynb) | Varsha |
-| **EDA** | Explore patterns, correlations, and disparities | [AML_EDA.ipynb](https://github.com/kristenlowe/hospital-readmission/blob/main/AML_EDA.ipynb) | Nisha |
-| **Modeling and Evaluation** | Logistic regression (L1 penalty), comparison with other models, accuracy, fairness metrics, feature importance | [AML_Modeling_Evaluation.ipynb](https://github.com/kristenlowe/hospital-readmission/blob/main/AML_Modeling_Evaluation.ipynb) | Joseph |
-| **Presentation** | In-class Powerpoint presentation | [Texas McCombs MSBA Advanced Machine Learning Fall 2025.pdf](https://github.com/kristenlowe/hospital-readmission/blob/main/Texas%20McCombs%20MSBA%20Advanced%20Machine%20Learning%20Fall%202025.pdf) | Zan |
+| **Data Integration** | Merge UCI dataset with BRFSS demographic health data | [data_merging.ipynb](https://github.com/rvarsha21/Hospital-readmission/blob/848420e0cd63460d78b3134011a20c992a4ed717/data_merging%20(1).ipynb) | Kristen |
+| **Data Cleaning and Feature Engineering** | Handle missing values, create literature-based predictive features | [Data Cleaning and Feature Engineering.ipynb](https://github.com/rvarsha21/Hospital-readmission/blob/848420e0cd63460d78b3134011a20c992a4ed717/Data%20Cleaning%20and%20Feature%20Engineering.ipynb) | Varsha |
+| **EDA** | Explore patterns, correlations, and disparities | [AML_EDA.ipynb](https://github.com/rvarsha21/Hospital-readmission/blob/848420e0cd63460d78b3134011a20c992a4ed717/AML_EDA.ipynb)) | Nisha |
+| **Modeling and Evaluation** | Logistic regression (L1 penalty), comparison with other models, accuracy, fairness metrics, feature importance | [AML_Modeling_Evaluation.ipynb](https://github.com/rvarsha21/Hospital-readmission/blob/848420e0cd63460d78b3134011a20c992a4ed717/AML_Modeling_Evaluation.ipynb)) | Joseph |
+| **Presentation** | In-class Powerpoint presentation | [Texas McCombs MSBA Advanced Machine Learning Fall 2025.pdf](https://github.com/rvarsha21/Hospital-readmission/blob/848420e0cd63460d78b3134011a20c992a4ed717/Texas%20McCombs%20MSBA%20Advanced%20Machine%20Learning%20Fall%202025%20(1).pdf) | Zan |
 | **Blog Report** | Blog-based project report | | |
 
 ## Objectives
